@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "model_name": "openai/clip-vit-base-patch32",
+        "device_used": "cuda",
+        "hyperparameters": {
+            "batch_size": 32,
+            "learning_rate": 5e-06,
+            "epochs": 5
+        }
+    },
+    "metrics": {
+        "Recall@1": 0.1,
+        "Recall@5": 0.4,
+        "Recall@10": 0.6,
+        "Mean Rank": 8.35,
+        "Median Rank": 7.5,
+        "MRR": 0.23517207057648232,
+        "NDCG": 0.40009888188174825,
+        "Sensitivity": 0.7047619047619047,
+        "Specificity": 0.9338493291984342,
+        "F1 Score": 0.5777777777777777,
+        "BertScore Precision": 0.9271262884140015,
+        "BertScore Recall": 0.9281383752822876,
+        "BERTScore F1": 0.927597165107727,
+        "Trainable Parameters": 151277313,
+        "Total Parameters": 151277313,
+        "Inference Latency (ms)": 267.74001121520996,
+        "Peak VRAM Usage (GB)": 2.370944023132324
+    },
+    "train_losses": [
+        3.623046875,
+        3.025390625,
+        2.7578125,
+        2.525390625,
+        2.3203125
+    ],
+    "test_losses": [
+        3.09375,
+        3.0,
+        3.03125,
+        3.0625,
+        3.15625
+    ]
+}

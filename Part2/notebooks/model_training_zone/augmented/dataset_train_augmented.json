@@ -1,0 +1,998 @@
+[
+  {
+    "image": "images/ISIC_0029220.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0029220__rotated_9.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0029220__brightness_0.82.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0029220__contrast_0.99.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0029220__flipped.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0030492.png",
+    "text": "texts/basal_cell_carcinoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0030492__rotated_15.png",
+    "text": "texts/basal_cell_carcinoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0030492__contrast_1.16.png",
+    "text": "texts/basal_cell_carcinoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0030492__flipped.png",
+    "text": "texts/basal_cell_carcinoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0025118.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0025118__brightness_1.05.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0025118__flipped.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0031981.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0031981__rotated_10.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0031981__brightness_0.86.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0029475.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0029475__rotated_-5.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0029649.png",
+    "text": "texts/skin_cancer_0_0_41.txt"
+  },
+  {
+    "image": "images/ISIC_0029649__rotated_14.png",
+    "text": "texts/skin_cancer_0_0_41.txt"
+  },
+  {
+    "image": "images/ISIC_0029649__contrast_0.98.png",
+    "text": "texts/skin_cancer_0_0_41.txt"
+  },
+  {
+    "image": "images/ISIC_0029649__flipped.png",
+    "text": "texts/skin_cancer_0_0_41.txt"
+  },
+  {
+    "image": "images/ISIC_0025298.png",
+    "text": "texts/melanoma_0_0_146.txt"
+  },
+  {
+    "image": "images/ISIC_0025298__brightness_1.17.png",
+    "text": "texts/melanoma_0_0_146.txt"
+  },
+  {
+    "image": "images/ISIC_0025298__flipped.png",
+    "text": "texts/melanoma_0_0_146.txt"
+  },
+  {
+    "image": "images/ISIC_0034222.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0034222__rotated_10.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0034222__brightness_0.80.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0034222__flipped.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0032731.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0032731__contrast_0.88.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0032731__flipped.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0032218.png",
+    "text": "texts/skin_cancer_0_0_3.txt"
+  },
+  {
+    "image": "images/ISIC_0032218__brightness_1.12.png",
+    "text": "texts/skin_cancer_0_0_3.txt"
+  },
+  {
+    "image": "images/ISIC_0030413.png",
+    "text": "texts/melanoma_0_0_9.txt"
+  },
+  {
+    "image": "images/ISIC_0030413__brightness_1.17.png",
+    "text": "texts/melanoma_0_0_9.txt"
+  },
+  {
+    "image": "images/ISIC_0030413__flipped.png",
+    "text": "texts/melanoma_0_0_9.txt"
+  },
+  {
+    "image": "images/ISIC_0032701.png",
+    "text": "texts/melanoma_0_0_96.txt"
+  },
+  {
+    "image": "images/ISIC_0032701__rotated_2.png",
+    "text": "texts/melanoma_0_0_96.txt"
+  },
+  {
+    "image": "images/ISIC_0032701__contrast_0.88.png",
+    "text": "texts/melanoma_0_0_96.txt"
+  },
+  {
+    "image": "images/ISIC_0032701__flipped.png",
+    "text": "texts/melanoma_0_0_96.txt"
+  },
+  {
+    "image": "images/ISIC_0033464.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0033464__rotated_-6.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0033464__contrast_0.95.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0033464__flipped.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0031655.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0031655__flipped.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0029851.png",
+    "text": "texts/skin_cancer_0_0_50.txt"
+  },
+  {
+    "image": "images/ISIC_0029851__rotated_0.png",
+    "text": "texts/skin_cancer_0_0_50.txt"
+  },
+  {
+    "image": "images/ISIC_0029851__contrast_0.85.png",
+    "text": "texts/skin_cancer_0_0_50.txt"
+  },
+  {
+    "image": "images/ISIC_0027219.png",
+    "text": "texts/basal_cell_carcinoma_0_0_13.txt"
+  },
+  {
+    "image": "images/ISIC_0027219__contrast_1.13.png",
+    "text": "texts/basal_cell_carcinoma_0_0_13.txt"
+  },
+  {
+    "image": "images/ISIC_0027219__flipped.png",
+    "text": "texts/basal_cell_carcinoma_0_0_13.txt"
+  },
+  {
+    "image": "images/ISIC_0026289.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0026289__rotated_1.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0026289__contrast_1.14.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0026289__flipped.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0030197.png",
+    "text": "texts/basal_cell_carcinoma_0_0_3.txt"
+  },
+  {
+    "image": "images/ISIC_0030197__rotated_15.png",
+    "text": "texts/basal_cell_carcinoma_0_0_3.txt"
+  },
+  {
+    "image": "images/ISIC_0030541.png",
+    "text": "texts/melanoma_0_0_57.txt"
+  },
+  {
+    "image": "images/ISIC_0030541__rotated_7.png",
+    "text": "texts/melanoma_0_0_57.txt"
+  },
+  {
+    "image": "images/ISIC_0030541__brightness_1.12.png",
+    "text": "texts/melanoma_0_0_57.txt"
+  },
+  {
+    "image": "images/ISIC_0030541__flipped.png",
+    "text": "texts/melanoma_0_0_57.txt"
+  },
+  {
+    "image": "images/ISIC_0032110.png",
+    "text": "texts/melanoma_0_0_164.txt"
+  },
+  {
+    "image": "images/ISIC_0032110__brightness_1.14.png",
+    "text": "texts/melanoma_0_0_164.txt"
+  },
+  {
+    "image": "images/ISIC_0032110__flipped.png",
+    "text": "texts/melanoma_0_0_164.txt"
+  },
+  {
+    "image": "images/ISIC_0024508.png",
+    "text": "texts/melanoma_0_0_155.txt"
+  },
+  {
+    "image": "images/ISIC_0024508__contrast_0.93.png",
+    "text": "texts/melanoma_0_0_155.txt"
+  },
+  {
+    "image": "images/ISIC_0024508__flipped.png",
+    "text": "texts/melanoma_0_0_155.txt"
+  },
+  {
+    "image": "images/ISIC_0030421.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0030421__contrast_0.82.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0030421__flipped.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0029024.png",
+    "text": "texts/melanoma_0_0_73.txt"
+  },
+  {
+    "image": "images/ISIC_0029024__rotated_2.png",
+    "text": "texts/melanoma_0_0_73.txt"
+  },
+  {
+    "image": "images/ISIC_0029024__brightness_0.83.png",
+    "text": "texts/melanoma_0_0_73.txt"
+  },
+  {
+    "image": "images/ISIC_0028948.png",
+    "text": "texts/melanoma_0_0_73.txt"
+  },
+  {
+    "image": "images/ISIC_0028948__rotated_-12.png",
+    "text": "texts/melanoma_0_0_73.txt"
+  },
+  {
+    "image": "images/ISIC_0028948__flipped.png",
+    "text": "texts/melanoma_0_0_73.txt"
+  },
+  {
+    "image": "images/ISIC_0025200.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0025200__contrast_0.87.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0026128.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0026128__brightness_1.17.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0026283.png",
+    "text": "texts/basal_cell_carcinoma_0_0_9.txt"
+  },
+  {
+    "image": "images/ISIC_0026283__flipped.png",
+    "text": "texts/basal_cell_carcinoma_0_0_9.txt"
+  },
+  {
+    "image": "images/ISIC_0028726.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0028726__contrast_0.82.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0028381.png",
+    "text": "texts/skin_cancer_0_0_50.txt"
+  },
+  {
+    "image": "images/ISIC_0028381__rotated_-9.png",
+    "text": "texts/skin_cancer_0_0_50.txt"
+  },
+  {
+    "image": "images/ISIC_0028381__contrast_0.99.png",
+    "text": "texts/skin_cancer_0_0_50.txt"
+  },
+  {
+    "image": "images/ISIC_0028381__flipped.png",
+    "text": "texts/skin_cancer_0_0_50.txt"
+  },
+  {
+    "image": "images/ISIC_0025202.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0025202__rotated_7.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0025202__brightness_1.19.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0025202__flipped.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0033466.png",
+    "text": "texts/melanoma_0_0_103.txt"
+  },
+  {
+    "image": "images/ISIC_0033466__rotated_-5.png",
+    "text": "texts/melanoma_0_0_103.txt"
+  },
+  {
+    "image": "images/ISIC_0033466__brightness_0.85.png",
+    "text": "texts/melanoma_0_0_103.txt"
+  },
+  {
+    "image": "images/ISIC_0033466__contrast_1.07.png",
+    "text": "texts/melanoma_0_0_103.txt"
+  },
+  {
+    "image": "images/ISIC_0030397.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0030397__rotated_13.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0030397__brightness_1.00.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0024388.png",
+    "text": "texts/basal_cell_carcinoma_0_0_3.txt"
+  },
+  {
+    "image": "images/ISIC_0024388__rotated_-7.png",
+    "text": "texts/basal_cell_carcinoma_0_0_3.txt"
+  },
+  {
+    "image": "images/ISIC_0024388__contrast_0.98.png",
+    "text": "texts/basal_cell_carcinoma_0_0_3.txt"
+  },
+  {
+    "image": "images/ISIC_0028025.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0028025__rotated_2.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0028025__flipped.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0027249.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0027249__flipped.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0029834.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0029834__rotated_4.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0029834__flipped.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0025886.png",
+    "text": "texts/basal_cell_carcinoma_0_0_9.txt"
+  },
+  {
+    "image": "images/ISIC_0025886__rotated_-13.png",
+    "text": "texts/basal_cell_carcinoma_0_0_9.txt"
+  },
+  {
+    "image": "images/ISIC_0028103.png",
+    "text": "texts/basal_cell_carcinoma_0_0_13.txt"
+  },
+  {
+    "image": "images/ISIC_0028103__brightness_0.95.png",
+    "text": "texts/basal_cell_carcinoma_0_0_13.txt"
+  },
+  {
+    "image": "images/ISIC_0028103__contrast_1.03.png",
+    "text": "texts/basal_cell_carcinoma_0_0_13.txt"
+  },
+  {
+    "image": "images/ISIC_0026911.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0026911__brightness_0.97.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0026911__contrast_0.82.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0029876.png",
+    "text": "texts/basal_cell_carcinoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0029876__contrast_0.99.png",
+    "text": "texts/basal_cell_carcinoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0029876__flipped.png",
+    "text": "texts/basal_cell_carcinoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0025874.png",
+    "text": "texts/squamous_cell_carcinoma_0_0_5.txt"
+  },
+  {
+    "image": "images/ISIC_0025874__rotated_13.png",
+    "text": "texts/squamous_cell_carcinoma_0_0_5.txt"
+  },
+  {
+    "image": "images/ISIC_0025874__flipped.png",
+    "text": "texts/squamous_cell_carcinoma_0_0_5.txt"
+  },
+  {
+    "image": "images/ISIC_0027710.png",
+    "text": "texts/skin_cancer_0_0_50.txt"
+  },
+  {
+    "image": "images/ISIC_0027710__brightness_1.19.png",
+    "text": "texts/skin_cancer_0_0_50.txt"
+  },
+  {
+    "image": "images/ISIC_0027710__flipped.png",
+    "text": "texts/skin_cancer_0_0_50.txt"
+  },
+  {
+    "image": "images/ISIC_0031380.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0031380__rotated_-13.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0031380__brightness_0.85.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0031380__flipped.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0030269.png",
+    "text": "texts/melanoma_0_0_70.txt"
+  },
+  {
+    "image": "images/ISIC_0030269__flipped.png",
+    "text": "texts/melanoma_0_0_70.txt"
+  },
+  {
+    "image": "images/ISIC_0032563.png",
+    "text": "texts/basal_cell_carcinoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0032563__rotated_6.png",
+    "text": "texts/basal_cell_carcinoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0032563__brightness_0.84.png",
+    "text": "texts/basal_cell_carcinoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0032563__flipped.png",
+    "text": "texts/basal_cell_carcinoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0033055.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0033055__rotated_-7.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0033055__brightness_0.87.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0033055__flipped.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0027841.png",
+    "text": "texts/skin_cancer_0_0_35.txt"
+  },
+  {
+    "image": "images/ISIC_0027841__rotated_-15.png",
+    "text": "texts/skin_cancer_0_0_35.txt"
+  },
+  {
+    "image": "images/ISIC_0027841__flipped.png",
+    "text": "texts/skin_cancer_0_0_35.txt"
+  },
+  {
+    "image": "images/ISIC_0033053.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0033053__rotated_-11.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0033053__brightness_1.13.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0033053__contrast_0.85.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0026077.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0026077__rotated_-14.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0026077__contrast_1.02.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0026077__flipped.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0033439.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0033439__rotated_14.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0033439__brightness_1.14.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0033439__contrast_1.04.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0026507.png",
+    "text": "texts/basal_cell_carcinoma_0_0_13.txt"
+  },
+  {
+    "image": "images/ISIC_0026507__rotated_-1.png",
+    "text": "texts/basal_cell_carcinoma_0_0_13.txt"
+  },
+  {
+    "image": "images/ISIC_0026507__brightness_0.95.png",
+    "text": "texts/basal_cell_carcinoma_0_0_13.txt"
+  },
+  {
+    "image": "images/ISIC_0026507__contrast_0.88.png",
+    "text": "texts/basal_cell_carcinoma_0_0_13.txt"
+  },
+  {
+    "image": "images/ISIC_0026507__flipped.png",
+    "text": "texts/basal_cell_carcinoma_0_0_13.txt"
+  },
+  {
+    "image": "images/ISIC_0027307.png",
+    "text": "texts/skin_cancer_0_0_32.txt"
+  },
+  {
+    "image": "images/ISIC_0027307__flipped.png",
+    "text": "texts/skin_cancer_0_0_32.txt"
+  },
+  {
+    "image": "images/ISIC_0029694.png",
+    "text": "texts/basal_cell_carcinoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0029694__rotated_-5.png",
+    "text": "texts/basal_cell_carcinoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0029694__brightness_0.81.png",
+    "text": "texts/basal_cell_carcinoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0034144.png",
+    "text": "texts/melanoma_0_0_155.txt"
+  },
+  {
+    "image": "images/ISIC_0034144__rotated_-4.png",
+    "text": "texts/melanoma_0_0_155.txt"
+  },
+  {
+    "image": "images/ISIC_0034144__contrast_0.92.png",
+    "text": "texts/melanoma_0_0_155.txt"
+  },
+  {
+    "image": "images/ISIC_0034196.png",
+    "text": "texts/basal_cell_carcinoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0034196__flipped.png",
+    "text": "texts/basal_cell_carcinoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0031831.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0026653.png",
+    "text": "texts/basal_cell_carcinoma_0_0_3.txt"
+  },
+  {
+    "image": "images/ISIC_0026653__brightness_0.99.png",
+    "text": "texts/basal_cell_carcinoma_0_0_3.txt"
+  },
+  {
+    "image": "images/ISIC_0026653__contrast_1.19.png",
+    "text": "texts/basal_cell_carcinoma_0_0_3.txt"
+  },
+  {
+    "image": "images/ISIC_0034016.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0034016__brightness_0.97.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0034016__flipped.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0031987.png",
+    "text": "texts/basal_cell_carcinoma_0_0_13.txt"
+  },
+  {
+    "image": "images/ISIC_0031987__rotated_14.png",
+    "text": "texts/basal_cell_carcinoma_0_0_13.txt"
+  },
+  {
+    "image": "images/ISIC_0031987__contrast_1.12.png",
+    "text": "texts/basal_cell_carcinoma_0_0_13.txt"
+  },
+  {
+    "image": "images/ISIC_0031987__flipped.png",
+    "text": "texts/basal_cell_carcinoma_0_0_13.txt"
+  },
+  {
+    "image": "images/ISIC_0032415.png",
+    "text": "texts/melanoma_0_0_17.txt"
+  },
+  {
+    "image": "images/ISIC_0032415__brightness_0.88.png",
+    "text": "texts/melanoma_0_0_17.txt"
+  },
+  {
+    "image": "images/ISIC_0027077.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0027077__brightness_0.92.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0027077__contrast_1.12.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0027077__flipped.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0028280.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0028280__flipped.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0032727.png",
+    "text": "texts/skin_cancer_0_0_50.txt"
+  },
+  {
+    "image": "images/ISIC_0032727__rotated_-10.png",
+    "text": "texts/skin_cancer_0_0_50.txt"
+  },
+  {
+    "image": "images/ISIC_0029577.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0029577__rotated_7.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0029577__contrast_1.10.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0028416.png",
+    "text": "texts/melanoma_0_0_70.txt"
+  },
+  {
+    "image": "images/ISIC_0028416__contrast_1.20.png",
+    "text": "texts/melanoma_0_0_70.txt"
+  },
+  {
+    "image": "images/ISIC_0028416__flipped.png",
+    "text": "texts/melanoma_0_0_70.txt"
+  },
+  {
+    "image": "images/ISIC_0031351.png",
+    "text": "texts/skin_cancer_0_0_50.txt"
+  },
+  {
+    "image": "images/ISIC_0031351__rotated_-12.png",
+    "text": "texts/skin_cancer_0_0_50.txt"
+  },
+  {
+    "image": "images/ISIC_0031351__flipped.png",
+    "text": "texts/skin_cancer_0_0_50.txt"
+  },
+  {
+    "image": "images/ISIC_0030297.png",
+    "text": "texts/melanoma_0_0_73.txt"
+  },
+  {
+    "image": "images/ISIC_0030297__brightness_1.19.png",
+    "text": "texts/melanoma_0_0_73.txt"
+  },
+  {
+    "image": "images/ISIC_0025899.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0025899__rotated_13.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0025899__brightness_1.07.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0025899__contrast_1.13.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0025899__flipped.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0033229.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0033229__rotated_12.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0033229__contrast_0.89.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0031948.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0031948__rotated_13.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0031948__flipped.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0033154.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0033154__rotated_4.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0033154__brightness_1.14.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0033154__contrast_1.09.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0033154__flipped.png",
+    "text": "texts/melanoma_0_0_68.txt"
+  },
+  {
+    "image": "images/ISIC_0028175.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0028175__contrast_0.82.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0026710.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0026710__contrast_0.93.png",
+    "text": "texts/melanoma_0_0_24.txt"
+  },
+  {
+    "image": "images/ISIC_0032871.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0032871__brightness_1.19.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0032871__contrast_1.16.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0032871__flipped.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0025806.png",
+    "text": "texts/basal_cell_carcinoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0025806__rotated_6.png",
+    "text": "texts/basal_cell_carcinoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0025806__brightness_1.01.png",
+    "text": "texts/basal_cell_carcinoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0025806__contrast_0.83.png",
+    "text": "texts/basal_cell_carcinoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0034129.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0034129__rotated_-6.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0034129__brightness_1.04.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0034129__contrast_0.99.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0034129__flipped.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0031442.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0031442__brightness_1.14.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0031442__contrast_1.06.png",
+    "text": "texts/melanoma_0_0_74.txt"
+  },
+  {
+    "image": "images/ISIC_0031256.png",
+    "text": "texts/basal_cell_carcinoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0031256__brightness_0.90.png",
+    "text": "texts/basal_cell_carcinoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0031256__flipped.png",
+    "text": "texts/basal_cell_carcinoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0029623.png",
+    "text": "texts/melanoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0029623__rotated_-6.png",
+    "text": "texts/melanoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0029623__brightness_0.95.png",
+    "text": "texts/melanoma_0_0_47.txt"
+  },
+  {
+    "image": "images/ISIC_0029263.png",
+    "text": "texts/basal_cell_carcinoma_0_0_13.txt"
+  },
+  {
+    "image": "images/ISIC_0029263__rotated_-8.png",
+    "text": "texts/basal_cell_carcinoma_0_0_13.txt"
+  },
+  {
+    "image": "images/ISIC_0029263__contrast_0.82.png",
+    "text": "texts/basal_cell_carcinoma_0_0_13.txt"
+  }
+]
