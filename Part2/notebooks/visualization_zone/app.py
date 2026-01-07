@@ -43,8 +43,9 @@ def load_experiment_assets(folder_name):
     objects = s3.list_objects_v2(Bucket=BUCKET_NAME, Prefix=f"{folder_name}/")
     
     metrics_data = None
-    loss_image = None
-    
+    train_loss_image = None
+    test_loss_image = None
+
     for obj in objects.get('Contents', []):
         key = obj['Key']
         if key.endswith('.json'):
@@ -52,9 +53,12 @@ def load_experiment_assets(folder_name):
             metrics_data = json.loads(json_obj['Body'].read().decode('utf-8'))
         elif key.endswith('.png'):
             img_obj = s3.get_object(Bucket=BUCKET_NAME, Key=key)
-            loss_image = Image.open(io.BytesIO(img_obj['Body'].read()))
+            if "training_loss_curve" in key:
+                train_loss_image = Image.open(io.BytesIO(img_obj['Body'].read()))
+            elif "test_loss_curve" in key:
+                test_loss_image = Image.open(io.BytesIO(img_obj['Body'].read()))
             
-    return metrics_data, loss_image
+    return metrics_data, train_loss_image, test_loss_image
 
 # --- SIDEBAR ---
 st.sidebar.header("Experiment Filter")
@@ -68,13 +72,13 @@ else:
     all_images = {}
 
     for folder in selected_folders:
-        m, img = load_experiment_assets(folder)
-        if m and img:
+        m, img, img2 = load_experiment_assets(folder)
+        if m and img and img2:
             # Flattens the nested 'metrics' dict you defined earlier
             # Adds the Experiment name as a column for comparison
             flat_row = {"Experiment": folder, **m.get('metrics', {})}
             all_metrics.append(flat_row)
-            all_images[folder] = img
+            all_images[folder] = [img,img2]
 
     df = pd.DataFrame(all_metrics)
 
@@ -121,7 +125,8 @@ else:
     img_cols = st.columns(len(selected_folders))
     for i, folder in enumerate(selected_folders):
         with img_cols[i]:
-            st.image(all_images[folder], caption=f"Loss: {folder}")
+            st.image(all_images[folder][0], caption=f"Loss: {folder}")
+            st.image(all_images[folder][1], caption=f"Loss: {folder}")
 
     # --- RAW DATA ---
     st.markdown("---")
